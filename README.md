@@ -1,3 +1,16 @@
+For dataset go through this link: (Because github can't allowed to upload large file)
+Project-1:
+-->https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset
+
+Project-2:
+https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+
+Project-3:
+https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
+
+Project-4:
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 📊 Data Analytics & Machine Learning Projects
 
 Welcome to my Data Analytics and Machine Learning Projects Repository!
